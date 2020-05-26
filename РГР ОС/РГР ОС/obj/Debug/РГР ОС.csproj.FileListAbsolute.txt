@@ -1,0 +1,10 @@
+C:\Users\Алекесей\Desktop\По делу\РГР ОС\РГР ОС\bin\Debug\РГР ОС.exe.config
+C:\Users\Алекесей\Desktop\По делу\РГР ОС\РГР ОС\bin\Debug\РГР ОС.exe
+C:\Users\Алекесей\Desktop\По делу\РГР ОС\РГР ОС\bin\Debug\РГР ОС.pdb
+C:\Users\Алекесей\Desktop\По делу\РГР ОС\РГР ОС\obj\Debug\РГР ОС.csprojAssemblyReference.cache
+C:\Users\Алекесей\Desktop\По делу\РГР ОС\РГР ОС\obj\Debug\РГР_ОС.MainForm.resources
+C:\Users\Алекесей\Desktop\По делу\РГР ОС\РГР ОС\obj\Debug\РГР_ОС.Properties.Resources.resources
+C:\Users\Алекесей\Desktop\По делу\РГР ОС\РГР ОС\obj\Debug\РГР ОС.csproj.GenerateResource.cache
+C:\Users\Алекесей\Desktop\По делу\РГР ОС\РГР ОС\obj\Debug\РГР ОС.csproj.CoreCompileInputs.cache
+C:\Users\Алекесей\Desktop\По делу\РГР ОС\РГР ОС\obj\Debug\РГР ОС.exe
+C:\Users\Алекесей\Desktop\По делу\РГР ОС\РГР ОС\obj\Debug\РГР ОС.pdb
